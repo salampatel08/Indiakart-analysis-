@@ -1,0 +1,11 @@
+product_id,product_name_p,category_p,brand,units_sold,revenue_inr,product_rating
+PRD0086,Godrej Camera Elite,Electronics,Godrej,181,27804029.78,3.8
+PRD0067,Ambrane Power Bank Classic,Electronics,Ambrane,160,25397714.76,3.8
+PRD0062,Godrej Power Bank Standard,Electronics,Godrej,179,24406976.58,4.1
+PRD0046,Pidilite Headphones Premium,Electronics,Pidilite,142,23033961.12,3.5999999999999996
+PRD0055,Reliance Bluetooth Speaker Standard,Electronics,Reliance,150,22535183.43,4.4
+PRD0054,Zebronics Bluetooth Speaker Standard,Electronics,Zebronics,172,21759074.19,4.0
+PRD0039,Hero Smart TV Max,Electronics,Hero,150,21514140.94,3.5
+PRD0018,Infosys Laptop Ultra,Electronics,Infosys,139,20923213.21,4.3
+PRD0099,Bajaj Router Classic,Electronics,Bajaj,137,20334116.78,3.5
+PRD0077,Mivi Smartwatch Plus,Electronics,Mivi,136,19954509.26,3.4

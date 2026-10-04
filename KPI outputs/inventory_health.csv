@@ -1,0 +1,15 @@
+warehouse_location,status,product_count,total_units,inventory_value_inr,below_reorder
+Bengaluru-WH3,In Stock,154,38490,284195630,0
+Bengaluru-WH3,Low Stock,16,281,1717611,16
+Bengaluru-WH3,Out of Stock,1,0,0,1
+Chennai-WH5,In Stock,178,47229,406688434,0
+Chennai-WH5,Low Stock,11,171,227038,11
+Chennai-WH5,Out of Stock,1,0,0,1
+Delhi-WH2,In Stock,154,40103,391712028,0
+Delhi-WH2,Low Stock,11,148,164236,11
+Hyderabad-WH4,In Stock,149,38870,356745076,0
+Hyderabad-WH4,Low Stock,18,380,2424918,18
+Kolkata-WH6,In Stock,153,39435,305716950,0
+Kolkata-WH6,Low Stock,13,259,3287811,13
+Mumbai-WH1,In Stock,134,32325,358795090,0
+Mumbai-WH1,Low Stock,7,78,234925,7
